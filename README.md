@@ -2,7 +2,7 @@
 Railway Reservation System 
 
 
-technologie we used in this project are {html  , tailwindCss , PhP  , MySQL(Database)}
+technologies we used in this project are {html  , tailwindCss , PhP  , MySQL(Database)}
 
 In this website passenger books it ticket/seat and the seat will be economy , buisness
 
